@@ -10,6 +10,20 @@ Users can manually create and manage tasks or communicate with an AI assistant t
 
 ## Features
 
+## Application Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Task Management
+![Tasks](screenshots/tasks.png)
+
+### AI Assistant
+![AI Assistant](screenshots/assistant.png)
+
+### Settings
+![Settings](screenshots/settings.png)
+
 ### Task Management
 - Create tasks with estimated durations.
 - Mark tasks as completed.
