@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+client/node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Local task data
+data/*.json
+!data/.gitkeep
+
+# Build output
+dist/
+client/dist/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
